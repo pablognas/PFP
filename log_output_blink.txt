@@ -1,0 +1,157 @@
+Node 11 is now active.
+Node 11 handled clock at 100. Remaining energy: 3
+Node 11 handled clock at 200. Remaining energy: 2.9603
+Node 11 handled clock at 300. Remaining energy: 2.9169
+Node 11 handled clock at 400. Remaining energy: 2.8735
+Node 11 handled clock at 500. Remaining energy: 2.8301
+Node 11 handled clock at 600. Remaining energy: 2.7866999999999997
+Node 11 handled clock at 700. Remaining energy: 2.7432999999999996
+Node 11 handled clock at 800. Remaining energy: 2.6998999999999995
+Node 11 handled clock at 900. Remaining energy: 2.6564999999999994
+Node 11 handled clock at 1000. Remaining energy: 2.6130999999999993
+Node 11 changed the state of LED 3.
+Node 11 handled clock at 1100. Remaining energy: 2.569699999999999
+Node 11 handled clock at 1200. Remaining energy: 2.508599999999999
+Node 11 handled clock at 1300. Remaining energy: 2.4434999999999993
+Node 11 handled clock at 1400. Remaining energy: 2.3783999999999996
+Node 11 handled clock at 1500. Remaining energy: 2.3133
+Node 11 handled clock at 1600. Remaining energy: 2.2482
+Node 11 handled clock at 1700. Remaining energy: 2.1831000000000005
+Node 11 handled clock at 1800. Remaining energy: 2.1180000000000008
+Node 11 handled clock at 1900. Remaining energy: 2.052900000000001
+Node 11 handled clock at 2000. Remaining energy: 1.9878000000000013
+Node 11 changed the state of LED 3.
+Node 11 handled clock at 2100. Remaining energy: 1.9227000000000012
+Node 11 handled clock at 2200. Remaining energy: 1.8773000000000013
+Node 11 handled clock at 2300. Remaining energy: 1.8339000000000012
+Node 11 handled clock at 2400. Remaining energy: 1.790500000000001
+Node 11 handled clock at 2500. Remaining energy: 1.747100000000001
+Node 11 handled clock at 2600. Remaining energy: 1.7037000000000009
+Node 11 handled clock at 2700. Remaining energy: 1.6603000000000008
+Node 11 handled clock at 2800. Remaining energy: 1.6169000000000007
+Node 11 handled clock at 2900. Remaining energy: 1.5735000000000006
+Node 11 handled clock at 3000. Remaining energy: 1.5301000000000005
+Node 11 changed the state of LED 3.
+Node 11 handled clock at 3100. Remaining energy: 1.4867000000000004
+Node 11 handled clock at 3200. Remaining energy: 1.4256000000000002
+Node 11 handled clock at 3300. Remaining energy: 1.3605
+Node 11 handled clock at 3400. Remaining energy: 1.2953999999999999
+Node 11 handled clock at 3500. Remaining energy: 1.2302999999999997
+Node 11 handled clock at 3600. Remaining energy: 1.1651999999999996
+Node 11 handled clock at 3700. Remaining energy: 1.1000999999999994
+Node 11 handled clock at 3800. Remaining energy: 1.0349999999999993
+Node 11 handled clock at 3900. Remaining energy: 0.9698999999999992
+Node 11 handled clock at 4000. Remaining energy: 0.9047999999999993
+Node 11 changed the state of LED 3.
+Node 11 handled clock at 4100. Remaining energy: 0.8396999999999993
+Node 11 handled clock at 4200. Remaining energy: 0.7942999999999993
+Node 11 handled clock at 4300. Remaining energy: 0.7508999999999993
+Node 11 handled clock at 4400. Remaining energy: 0.7074999999999994
+Node 11 handled clock at 4500. Remaining energy: 0.6640999999999994
+Node 11 handled clock at 4600. Remaining energy: 0.6206999999999994
+Node 11 handled clock at 4700. Remaining energy: 0.5772999999999994
+Node 11 handled clock at 4800. Remaining energy: 0.5338999999999994
+Node 11 handled clock at 4900. Remaining energy: 0.4904999999999994
+Node 11 handled clock at 5000. Remaining energy: 0.4470999999999994
+Node 11 changed the state of LED 3.
+Node 11 handled clock at 5100. Remaining energy: 0.4036999999999994
+Node 11 handled clock at 5200. Remaining energy: 0.3425999999999994
+Node 11 handled clock at 5300. Remaining energy: 0.2774999999999994
+Node 11 handled clock at 5400. Remaining energy: 0.21239999999999942
+Node 11 handled clock at 5500. Remaining energy: 0.14729999999999943
+Node 11 handled clock at 5600. Remaining energy: 0.08219999999999944
+Node 11 handled clock at 5700. Remaining energy: 0.01709999999999945
+Node 11 is now inactive.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 is now active.
+Node 11 handled clock at 14700. Remaining energy: 2.13244
+Node 11 handled clock at 14800. Remaining energy: 2.0927599999999997
+Node 11 handled clock at 14900. Remaining energy: 2.0493599999999996
+Node 11 handled clock at 15000. Remaining energy: 2.0059599999999995
+Node 11 changed the state of LED 3.
+Node 11 handled clock at 15100. Remaining energy: 1.9625599999999994
+Node 11 handled clock at 15200. Remaining energy: 1.9014599999999993
+Node 11 handled clock at 15300. Remaining energy: 1.836359999999999
+Node 11 handled clock at 15400. Remaining energy: 1.771259999999999
+Node 11 handled clock at 15500. Remaining energy: 1.7061599999999988
+Node 11 handled clock at 15600. Remaining energy: 1.6410599999999986
+Node 11 handled clock at 15700. Remaining energy: 1.5759599999999985
+Node 11 handled clock at 15800. Remaining energy: 1.5108599999999983
+Node 11 handled clock at 15900. Remaining energy: 1.4457599999999982
+Node 11 handled clock at 16000. Remaining energy: 1.380659999999998
+Node 11 changed the state of LED 3.
+Node 11 handled clock at 16100. Remaining energy: 1.3155599999999978
+Node 11 handled clock at 16200. Remaining energy: 1.270159999999998
+Node 11 handled clock at 16300. Remaining energy: 1.2267599999999979
+Node 11 handled clock at 16400. Remaining energy: 1.1833599999999977
+Node 11 handled clock at 16500. Remaining energy: 1.1399599999999976
+Node 11 handled clock at 16600. Remaining energy: 1.0965599999999975
+Node 11 handled clock at 16700. Remaining energy: 1.0531599999999974
+Node 11 handled clock at 16800. Remaining energy: 1.0097599999999973
+Node 11 handled clock at 16900. Remaining energy: 0.9663599999999973
+Node 11 handled clock at 17000. Remaining energy: 0.9229599999999973
+Node 11 changed the state of LED 3.
+Node 11 handled clock at 17100. Remaining energy: 0.8795599999999973
+Node 11 handled clock at 17200. Remaining energy: 0.8184599999999973
+Node 11 handled clock at 17300. Remaining energy: 0.7533599999999973
+Node 11 handled clock at 17400. Remaining energy: 0.6882599999999973
+Node 11 handled clock at 17500. Remaining energy: 0.6231599999999974
+Node 11 handled clock at 17600. Remaining energy: 0.5580599999999974
+Node 11 handled clock at 17700. Remaining energy: 0.4929599999999975
+Node 11 handled clock at 17800. Remaining energy: 0.4278599999999975
+Node 11 handled clock at 17900. Remaining energy: 0.36275999999999753
+Node 11 handled clock at 18000. Remaining energy: 0.29765999999999754
+Node 11 changed the state of LED 3.
+Node 11 handled clock at 18100. Remaining energy: 0.23255999999999755
+Node 11 handled clock at 18200. Remaining energy: 0.18715999999999755
+Node 11 handled clock at 18300. Remaining energy: 0.14375999999999756
+Node 11 handled clock at 18400. Remaining energy: 0.10035999999999756
+Node 11 handled clock at 18500. Remaining energy: 0.05695999999999757
+Node 11 handled clock at 18600. Remaining energy: 0.013559999999997574
+Node 11 is now inactive.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 changed the state of LED 3.
+Node 11 is now active.
+Node 11 handled clock at 27600. Remaining energy: 2.13244
+Node 11 handled clock at 27700. Remaining energy: 2.0787799999999996
+Node 11 handled clock at 27800. Remaining energy: 2.01368
+Node 11 handled clock at 27900. Remaining energy: 1.9485799999999998
+Node 11 handled clock at 28000. Remaining energy: 1.8834799999999996
+Node 11 changed the state of LED 3.
+Node 11 handled clock at 28100. Remaining energy: 1.8183799999999994
+Node 11 handled clock at 28200. Remaining energy: 1.7729799999999996
+Node 11 handled clock at 28300. Remaining energy: 1.7295799999999995
+Node 11 handled clock at 28400. Remaining energy: 1.6861799999999993
+Node 11 handled clock at 28500. Remaining energy: 1.6427799999999992
+Node 11 handled clock at 28600. Remaining energy: 1.5993799999999991
+Node 11 handled clock at 28700. Remaining energy: 1.555979999999999
+Node 11 handled clock at 28800. Remaining energy: 1.512579999999999
+Node 11 handled clock at 28900. Remaining energy: 1.4691799999999988
+Node 11 handled clock at 29000. Remaining energy: 1.4257799999999987
+Node 11 changed the state of LED 3.
+Node 11 handled clock at 29100. Remaining energy: 1.3823799999999986
+Node 11 handled clock at 29200. Remaining energy: 1.3212799999999985
+Node 11 handled clock at 29300. Remaining energy: 1.2561799999999983
+Node 11 handled clock at 29400. Remaining energy: 1.1910799999999981
+Node 11 handled clock at 29500. Remaining energy: 1.125979999999998
+Node 11 handled clock at 29600. Remaining energy: 1.0608799999999978
+Node 11 handled clock at 29700. Remaining energy: 0.9957799999999978
+Node 11 handled clock at 29800. Remaining energy: 0.9306799999999978
+Node 11 handled clock at 29900. Remaining energy: 0.8655799999999979
+Node 11 handled clock at 30000. Remaining energy: 0.800479999999998
+Node 11 changed the state of LED 3.

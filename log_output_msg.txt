@@ -1,0 +1,157 @@
+Node 11 is now active.
+Node 11 handled clock at 100. Remaining energy: 3
+Node 11 handled clock at 200. Remaining energy: 2.9603
+Node 11 handled clock at 300. Remaining energy: 2.9169
+Node 11 handled clock at 400. Remaining energy: 2.8735
+Node 11 handled clock at 500. Remaining energy: 2.8301
+Node 11 handled clock at 600. Remaining energy: 2.7866999999999997
+Node 11 handled clock at 700. Remaining energy: 2.7432999999999996
+Node 11 handled clock at 800. Remaining energy: 2.6998999999999995
+Node 11 handled clock at 900. Remaining energy: 2.6564999999999994
+Node 11 handled clock at 1000. Remaining energy: 2.6130999999999993
+Node 11 sent a message to node 11. Remaining energy: 2.536599999999999
+Node 11 handled clock at 1100. Remaining energy: 2.536599999999999
+Node 11 handled clock at 1200. Remaining energy: 2.475799999999999
+Node 11 handled clock at 1300. Remaining energy: 2.432399999999999
+Node 11 handled clock at 1400. Remaining energy: 2.388999999999999
+Node 11 handled clock at 1500. Remaining energy: 2.345599999999999
+Node 11 handled clock at 1600. Remaining energy: 2.3021999999999987
+Node 11 handled clock at 1700. Remaining energy: 2.2587999999999986
+Node 11 handled clock at 1800. Remaining energy: 2.2153999999999985
+Node 11 handled clock at 1900. Remaining energy: 2.1719999999999984
+Node 11 handled clock at 2000. Remaining energy: 2.1285999999999983
+Node 11 sent a message to node 11. Remaining energy: 2.052099999999998
+Node 11 handled clock at 2100. Remaining energy: 2.052099999999998
+Node 11 handled clock at 2200. Remaining energy: 1.991299999999998
+Node 11 handled clock at 2300. Remaining energy: 1.947899999999998
+Node 11 handled clock at 2400. Remaining energy: 1.9044999999999979
+Node 11 handled clock at 2500. Remaining energy: 1.8610999999999978
+Node 11 handled clock at 2600. Remaining energy: 1.8176999999999977
+Node 11 handled clock at 2700. Remaining energy: 1.7742999999999975
+Node 11 handled clock at 2800. Remaining energy: 1.7308999999999974
+Node 11 handled clock at 2900. Remaining energy: 1.6874999999999973
+Node 11 handled clock at 3000. Remaining energy: 1.6440999999999972
+Node 11 sent a message to node 11. Remaining energy: 1.5675999999999972
+Node 11 handled clock at 3100. Remaining energy: 1.5675999999999972
+Node 11 handled clock at 3200. Remaining energy: 1.5067999999999973
+Node 11 handled clock at 3300. Remaining energy: 1.4633999999999974
+Node 11 handled clock at 3400. Remaining energy: 1.4199999999999973
+Node 11 handled clock at 3500. Remaining energy: 1.3765999999999972
+Node 11 handled clock at 3600. Remaining energy: 1.333199999999997
+Node 11 handled clock at 3700. Remaining energy: 1.289799999999997
+Node 11 handled clock at 3800. Remaining energy: 1.2463999999999968
+Node 11 handled clock at 3900. Remaining energy: 1.2029999999999967
+Node 11 handled clock at 4000. Remaining energy: 1.1595999999999966
+Node 11 sent a message to node 11. Remaining energy: 1.0830999999999966
+Node 11 handled clock at 4100. Remaining energy: 1.0830999999999966
+Node 11 handled clock at 4200. Remaining energy: 1.0222999999999967
+Node 11 handled clock at 4300. Remaining energy: 0.9788999999999967
+Node 11 handled clock at 4400. Remaining energy: 0.9354999999999967
+Node 11 handled clock at 4500. Remaining energy: 0.8920999999999967
+Node 11 handled clock at 4600. Remaining energy: 0.8486999999999967
+Node 11 handled clock at 4700. Remaining energy: 0.8052999999999967
+Node 11 handled clock at 4800. Remaining energy: 0.7618999999999967
+Node 11 handled clock at 4900. Remaining energy: 0.7184999999999967
+Node 11 handled clock at 5000. Remaining energy: 0.6750999999999967
+Node 11 sent a message to node 11. Remaining energy: 0.5985999999999967
+Node 11 handled clock at 5100. Remaining energy: 0.5985999999999967
+Node 11 handled clock at 5200. Remaining energy: 0.5377999999999967
+Node 11 handled clock at 5300. Remaining energy: 0.49439999999999673
+Node 11 handled clock at 5400. Remaining energy: 0.45099999999999674
+Node 11 handled clock at 5500. Remaining energy: 0.40759999999999674
+Node 11 handled clock at 5600. Remaining energy: 0.36419999999999675
+Node 11 handled clock at 5700. Remaining energy: 0.32079999999999675
+Node 11 handled clock at 5800. Remaining energy: 0.27739999999999676
+Node 11 handled clock at 5900. Remaining energy: 0.23399999999999677
+Node 11 handled clock at 6000. Remaining energy: 0.19059999999999677
+Node 11 sent a message to node 11. Remaining energy: 0.11409999999999679
+Node 11 handled clock at 6100. Remaining energy: 0.11409999999999679
+Node 11 handled clock at 6200. Remaining energy: 0.053299999999996794
+Node 11 handled clock at 6300. Remaining energy: 0.0098999999999968
+Node 11 is now inactive.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is now active.
+Node 11 handled clock at 15300. Remaining energy: 2.13244
+Node 11 handled clock at 15400. Remaining energy: 2.0927599999999997
+Node 11 handled clock at 15500. Remaining energy: 2.0493599999999996
+Node 11 handled clock at 15600. Remaining energy: 2.0059599999999995
+Node 11 handled clock at 15700. Remaining energy: 1.9625599999999994
+Node 11 handled clock at 15800. Remaining energy: 1.9191599999999993
+Node 11 handled clock at 15900. Remaining energy: 1.8757599999999992
+Node 11 handled clock at 16000. Remaining energy: 1.832359999999999
+Node 11 sent a message to node 11. Remaining energy: 1.755859999999999
+Node 11 handled clock at 16100. Remaining energy: 1.755859999999999
+Node 11 handled clock at 16200. Remaining energy: 1.6950599999999991
+Node 11 handled clock at 16300. Remaining energy: 1.6516599999999992
+Node 11 handled clock at 16400. Remaining energy: 1.6082599999999991
+Node 11 handled clock at 16500. Remaining energy: 1.564859999999999
+Node 11 handled clock at 16600. Remaining energy: 1.521459999999999
+Node 11 handled clock at 16700. Remaining energy: 1.4780599999999988
+Node 11 handled clock at 16800. Remaining energy: 1.4346599999999987
+Node 11 handled clock at 16900. Remaining energy: 1.3912599999999986
+Node 11 handled clock at 17000. Remaining energy: 1.3478599999999985
+Node 11 sent a message to node 11. Remaining energy: 1.2713599999999985
+Node 11 handled clock at 17100. Remaining energy: 1.2713599999999985
+Node 11 handled clock at 17200. Remaining energy: 1.2105599999999985
+Node 11 handled clock at 17300. Remaining energy: 1.1671599999999986
+Node 11 handled clock at 17400. Remaining energy: 1.1237599999999985
+Node 11 handled clock at 17500. Remaining energy: 1.0803599999999984
+Node 11 handled clock at 17600. Remaining energy: 1.0369599999999983
+Node 11 handled clock at 17700. Remaining energy: 0.9935599999999983
+Node 11 handled clock at 17800. Remaining energy: 0.9501599999999983
+Node 11 handled clock at 17900. Remaining energy: 0.9067599999999983
+Node 11 handled clock at 18000. Remaining energy: 0.8633599999999984
+Node 11 sent a message to node 11. Remaining energy: 0.7868599999999983
+Node 11 handled clock at 18100. Remaining energy: 0.7868599999999983
+Node 11 handled clock at 18200. Remaining energy: 0.7260599999999984
+Node 11 handled clock at 18300. Remaining energy: 0.6826599999999984
+Node 11 handled clock at 18400. Remaining energy: 0.6392599999999984
+Node 11 handled clock at 18500. Remaining energy: 0.5958599999999984
+Node 11 handled clock at 18600. Remaining energy: 0.5524599999999984
+Node 11 handled clock at 18700. Remaining energy: 0.5090599999999984
+Node 11 handled clock at 18800. Remaining energy: 0.4656599999999984
+Node 11 handled clock at 18900. Remaining energy: 0.4222599999999984
+Node 11 handled clock at 19000. Remaining energy: 0.3788599999999984
+Node 11 sent a message to node 11. Remaining energy: 0.3023599999999984
+Node 11 handled clock at 19100. Remaining energy: 0.3023599999999984
+Node 11 handled clock at 19200. Remaining energy: 0.24155999999999841
+Node 11 handled clock at 19300. Remaining energy: 0.19815999999999842
+Node 11 handled clock at 19400. Remaining energy: 0.15475999999999843
+Node 11 handled clock at 19500. Remaining energy: 0.11135999999999843
+Node 11 handled clock at 19600. Remaining energy: 0.06795999999999844
+Node 11 handled clock at 19700. Remaining energy: 0.024559999999998444
+Node 11 is now inactive.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is inactive and cannot send a message.
+Node 11 is now active.
+Node 11 handled clock at 28700. Remaining energy: 2.13244
+Node 11 handled clock at 28800. Remaining energy: 2.0927599999999997
+Node 11 handled clock at 28900. Remaining energy: 2.0493599999999996
+Node 11 handled clock at 29000. Remaining energy: 2.0059599999999995
+Node 11 sent a message to node 11. Remaining energy: 1.9294599999999995
+Node 11 handled clock at 29100. Remaining energy: 1.9294599999999995
+Node 11 handled clock at 29200. Remaining energy: 1.8686599999999995
+Node 11 handled clock at 29300. Remaining energy: 1.8252599999999997
+Node 11 handled clock at 29400. Remaining energy: 1.7818599999999996
+Node 11 handled clock at 29500. Remaining energy: 1.7384599999999995
+Node 11 handled clock at 29600. Remaining energy: 1.6950599999999993
+Node 11 handled clock at 29700. Remaining energy: 1.6516599999999992
+Node 11 handled clock at 29800. Remaining energy: 1.6082599999999991
+Node 11 handled clock at 29900. Remaining energy: 1.564859999999999
+Node 11 handled clock at 30000. Remaining energy: 1.521459999999999
+Node 11 sent a message to node 11. Remaining energy: 1.444959999999999
