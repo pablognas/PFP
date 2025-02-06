@@ -3,7 +3,7 @@ Entregável da disciplina INF2102 - Projeto Final de Programação
 
 O módulo simulador necessita apenas que a máquina consiga rodar códigos python.
 
-O código harvest_sim.py tem como entrada o log da simulação do TOSSIM e simula o consumo de energia de dispositivos IoT de Energia Harvesting em uma Rede de Sensores Sem Fio, fazendo um novo log, que permite comparar os comportamentos, além de exportar o nível da tensão armazenada no capacitor do dispositivo de um csv para que seja possível plotar esse perfil de carga. Os resultados obtidos nesse teste estão apresentados nessa imagem: !(resultado_PFP.png)
+O código harvest_sim.py tem como entrada o log da simulação do TOSSIM e simula o consumo de energia de dispositivos IoT de Energia Harvesting em uma Rede de Sensores Sem Fio, fazendo um novo log, que permite comparar os comportamentos, além de exportar o nível da tensão armazenada no capacitor do dispositivo de um csv para que seja possível plotar esse perfil de carga. Os resultados obtidos nesse teste estão apresentados nessa imagem: !(resultado_pfp.png)
 
 Os arquivos disponibilizados nesse repositório apresentam a demonstração do consumo de energia de um único dispositivo em três cenários.
 - No cenário noop, o dispositivo fica ativo mas sem realizar nenhuma tarefa.
