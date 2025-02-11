@@ -1,0 +1,16 @@
+# Simulador do consumo de energia para o simulador Terra
+## Resumo do Projeto
+O objetivo desse projeto é criar um módulo que simule o consumo de energia em programas executados no simulador Terra (https://www.inf.puc-rio.br/~prjterra/) para tornar as simulações das Redes de Sensores Sem Fio (RSSF) mais fidedignas.
+O módulo considera o contexto de RSSF alimentados por Energy Harvesting, então a energia é armazenada em um capacitor, cuja curva de carga e descarga foi mapeada através da função capacitor_sim(), que foi adaptada para o cenário de correntes variáveis.
+
+## Visão do Projeto
+Testamos o módulo em 6 cenários, para testar diferentes funcionalidades. Seu funcionamento é baseado na leitura do código do log do simulador antigo para ilustrar o respectivo consumo de energia a partir do perfil mapeado.
+
+O código funciona para os códigos com apenas um nó na rede, mas pelas questões de portabilidade e versionamento do código do simulador original, não foi possível montar redes com mais de um nó, pois o módulo por si só é incapaz de replicar o roteamento e a realização dos protocolos que são feitos pelo simulador.
+### Cenário Positivo 1 - Código Noop Simples
+### Cenário Positivo 2 - Código Blink Simples
+### Cenário Positivo 3 - Código Message Simples
+
+### Cenário Negativo 1 - Código Noop Simples
+### Cenário Negativo 2 - Código Blink Simples
+### Cenário Negativo 3 - Código Message Simples
